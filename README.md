@@ -49,13 +49,18 @@ The dataset includes customer details such as:
       Dense(15, activation='relu'),
       Dense(1, activation='sigmoid')
       ])
-📈 Evaluation
+## 📈 Evaluation
 The model is evaluated using:
-•	Confusion Matrix: To visualize model performance.
-•	Classification Report: Provides precision, recall, and F1-score metrics.
-from sklearn.metrics import confusion_matrix, classification_report
-import seaborn as sns
-import matplotlib.pyplot as plt
+    
+    • Confusion Matrix: To visualize model performance.
+    
+    • Classification Report: Provides precision, recall, and F1-score metrics.
+    
+    from sklearn.metrics import confusion_matrix, classification_report
+    
+    import seaborn as sns
+    
+    import matplotlib.pyplot as plt
 
 # Assuming `yp` contains predictions and `y_test` contains actual values
     cm = confusion_matrix(y_test, y_pred)
