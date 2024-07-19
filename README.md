@@ -2,30 +2,6 @@
 Overview
 This project focuses on predicting customer churn using machine learning. It involves data preprocessing, model training, and evaluation to identify customers likely to churn. The model is built with TensorFlow and Keras, while data manipulation and visualization are handled using Pandas, scikit-learn, and Matplotlib.
 
-#Jupyter
-
-#JupyterNotebook
-
-#Python
-
-#DataScience
-
-#MachineLearning
-
-#Programming
-
-#Coding
-
-#Data
-
-#Analytics
-
-#ProgrammerHumor
-
-#DataMemes
-
-#CodingMemes
-
 ## 📋 Table of Contents
     •	Overview
     •	Technologies Used
