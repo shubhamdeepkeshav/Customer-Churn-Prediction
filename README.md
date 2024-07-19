@@ -85,18 +85,6 @@ Contributions are welcome! Please:
 
 2.	Create a new branch (git checkout -b feature-branch) 🌿
 
-
-### Markdown Header Syntax
-
-- `# Header 1` - Main title
-- `## Header 2` - Section title
-- `### Header 3` - Subsection title
-
-You can use additional `#` symbols for deeper sub-sections, e.g., `#### Header 4`. 
-
-Adjust the headings and content to fit your project details and ensure clarity.
-
-
 4.	Commit your changes (git commit -am 'Add new feature') 📝
 
 5.	Push to the branch (git push origin feature-branch) 🚀
